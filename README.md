@@ -49,3 +49,4 @@ A modern Laravel-based online newspaper and media portal developed and customize
 
 ---
 © All Rights Reserved: [Banglar Alo IT](https://banglaraloit.tech/)
+
