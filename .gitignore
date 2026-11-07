@@ -1,0 +1,11 @@
+.env
+.env.backup
+/news1/project/.env
+/news1/project/vendor/*
+!/news1/project/vendor/markury/
+/news1/project/node_modules/
+/news1/project/storage/logs/*.log
+/news1/project/storage/framework/cache/*
+/news1/project/storage/framework/sessions/*
+/news1/project/storage/framework/views/*
+*.tmp
